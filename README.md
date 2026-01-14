@@ -31,15 +31,15 @@ Prerequisites
 
 **Installation & Usage**
 
-    1.Download the Release Go to the Releases page and download MiddleMan.exe.
+*    Download the Release Go to the Releases page and download MiddleMan.exe.
 
-    2.Run the Program Simply double-click the file. An icon will appear in your system tray indicating that MiddleMan is active.
+*    Run the Program Simply double-click the file. An icon will appear in your system tray indicating that MiddleMan is active.
 
-    (Optional) Add to Startup To have the tool start automatically with Windows:
+*    (Optional) Add to Startup To have the tool start automatically with Windows:
 
-        Press Win + R, type shell:startup, and hit Enter.
+*    Press Win + R, type shell:startup, and hit Enter.
 
-        Create a shortcut to MiddleMan.exe in that folder.
+*    Create a shortcut to MiddleMan.exe in that folder.
 
 ## 🛠️ Building from Source
 
