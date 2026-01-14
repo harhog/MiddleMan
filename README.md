@@ -78,7 +78,7 @@ If you are using this tool in a **commercial or business environment**, I kindly
 </p>
 
 
-📝 License
+## 📝 License
 This project is licensed under the MIT License. See the LICENSE file for the full text.
 
 Created with 🦀 by Harald Höglund
